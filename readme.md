@@ -1,0 +1,1 @@
+Just a first simple project to show what I learned. This will be the bases that I build all my coding from.
